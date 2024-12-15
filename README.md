@@ -1,4 +1,4 @@
-#Summary of Key Steps:
+Summary of Key Steps:
 
 1. Importing Libraries:
    - Necessary libraries for data analysis are imported, including `numpy`, `pandas`, `matplotlib.pyplot`, and `seaborn`.
@@ -19,7 +19,7 @@
 5. Data Checks:
    - After cleaning, you re-check the dataframes for duplicates and missing values to ensure data integrity.
 
-#Next Steps:
+Next Steps:
 
 1. Exploratory Data Analysis (EDA):
    - Use visualizations to explore relationships between variables. For example, plot:
